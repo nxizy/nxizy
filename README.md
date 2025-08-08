@@ -18,13 +18,10 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
   <h1>Tecnologias e Ferramentas</h1>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" width="40px" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px"/></code>
@@ -41,6 +38,5 @@
 
   <h3>Conecte-se comigo! 📫</h3>
 <div>
-  <a src="https://dev.to/nxizy"><img alt="Blog" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
   <a src="www.linkedin.com/in/nxizy"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 </div>
